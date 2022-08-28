@@ -5,4 +5,4 @@ Structure:
 - set layout grid with 12 columns (black / 5%)
 - screen size 1440 x 986
 - add layout grid and change background color to black, transparency to 5%
-*** Get a habit of using frames instead of shape 
+*** Get a habit of using frames instead of shape when using basic rectangles
